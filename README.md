@@ -1,4 +1,4 @@
-![](./vecteezy_poisson-nageant-sous-l-eau_14205711.gif)
+![](./fish-gif.gif)
 
 ### Hello I'm Sandra Nguyen 💗
 
@@ -12,6 +12,8 @@ As an Asian American woman in tech, I am a firm believer in organizations whose 
 
 <br>
 
-I'm open to internships! Feel free to contact me at [sand.nguyen9@csu.fullerton.edu](sand.nguyen9@csu.fullerton.edu)!
+I'm open to Summer 2024 internships! Feel free to contact me at [sand.nguyen9@csu.fullerton.edu](sand.nguyen9@csu.fullerton.edu)!
 
-Check out my [website](sandranguyen.com) & [resume](./Sandra_Nguyen_Resume.pdf)!
+Explore my projects & research on my [website](sandranguyen.com)!
+
+Check out my [resume](./Sandra_Nguyen_Resume.pdf)!
